@@ -1,0 +1,1 @@
+print( "From oooo" ,__name__)
